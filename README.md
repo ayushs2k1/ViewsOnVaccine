@@ -1,5 +1,7 @@
 # ViewsOnVaccine
 
+[Colab Notebook](https://colab.research.google.com/drive/1AbORaHELfZAYOXRaM5ctkjyQEiZz07i2?usp=sharing#scrollTo=3yuCnGJqrqZa)
+
 In this project, we are going through the Twitter Sentiment Analysis problem, in relation to what people think about the Covid-19 vaccination, which we will solve using the concepts of Natural Language Processing (NLP).
 Natural language is the language we all talk in. It could be Hindi, English, Spanish, or anything. And when we talk about natural language processing, we basically refer to making computers able to process this language, and more importantly understand it and take actions based on it. Now this language can be text-based or audio-based. Our Google Voice assistant, Siri, and even google translator are excellent examples of this.
 We are going to build a machine learning model that is able to analyse loads of Twitter tweets and be able to judge the sentiments behind the tweets.
